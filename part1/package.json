@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-part-1",
+  "version": "1.0.0",
+  "description": "getting started with nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkPix3l/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DarkPix3l/nodeJS/issues"
+  },
+  "homepage": "https://github.com/DarkPix3l/nodeJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
